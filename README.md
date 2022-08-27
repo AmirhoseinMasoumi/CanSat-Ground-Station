@@ -5,7 +5,7 @@ The station is platform-free therefore it may operate with any CANSAT having dif
 This application use UART protocol for receiving data from CanSat.
 
 ### Features
-- Map
+- Live Map
 - Camera feed
 - 10x Charts for sensor data
 - Live data panle
