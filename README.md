@@ -6,7 +6,7 @@ This application use UART protocol for receiving data from CanSat.
 
 ### Features
 - Live Map
-- Camera feed
+- Live Camera 
 - 10x Charts for sensor data
 - Live data panle
 - Mission status panle
