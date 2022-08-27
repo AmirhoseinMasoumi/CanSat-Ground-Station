@@ -21,3 +21,5 @@ This application use UART protocol for receiving data from CanSat.
 - Humidity
 - UV index
 - Speed
+
+---
