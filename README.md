@@ -1,1 +1,1 @@
-# Cansat-Ground-Station
+# Cansat Ground Station
