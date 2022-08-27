@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SerialPortConfiguration.qml</file>
+        <file>MainPage.qml</file>
+        <file>MapPage.qml</file>
+        <file>CameraPage.qml</file>
+        <file>MissionPage.qml</file>
+        <file>LiveDataPage.qml</file>
+        <file>ChartPage.qml</file>
+    </qresource>
+</RCC>
